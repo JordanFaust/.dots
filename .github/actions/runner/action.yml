@@ -1,6 +1,6 @@
 name: 'runner'
 description: 'Set up home'
-author: 'dmadisetti'
+author: 'JordanFaust'
 outputs:
   shell:
     description: "Shell"
